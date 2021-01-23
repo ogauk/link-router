@@ -1,9 +1,9 @@
 {
   "name": "@ogauk/link-router",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "simple react-router like multi page routing",
   "type": "module",
-  "module": "./index.js",
+  "module": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-file index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
