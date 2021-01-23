@@ -1,0 +1,12 @@
+{
+  "name": "@ogauk/link-router",
+  "version": "1.0.0",
+  "description": "simple react-router like multi page routing",
+  "type": "module",
+  "module": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Cable <julian.cable@yahoo.com>",
+  "license": "ISC"
+}
